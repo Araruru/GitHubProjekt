@@ -1,0 +1,44 @@
+C:\Users\user\Desktop\ИСРПО\3C\3C\bin\Debug\3C.exe.config
+C:\Users\user\Desktop\ИСРПО\3C\3C\bin\Debug\3C.exe
+C:\Users\user\Desktop\ИСРПО\3C\3C\bin\Debug\3C.pdb
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\3C.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\3C_MarkupCompile.cache
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\3C.g.resources
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\_3C.Properties.Resources.resources
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\3C.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\3C.exe
+C:\Users\user\Desktop\ИСРПО\3C\3C\obj\Debug\3C.pdb
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\bin\Debug\3C.exe.config
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\bin\Debug\3C.exe
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\bin\Debug\3C.pdb
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\3C.csprojAssemblyReference.cache
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\MainWindow.baml
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\MainWindow.g.cs
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\App.g.cs
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\3C_MarkupCompile.cache
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\3C.g.resources
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\_3C.Properties.Resources.resources
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\3C.csproj.GenerateResource.cache
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\3C.exe
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\3C\obj\Debug\3C.pdb
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.csprojAssemblyReference.cache
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\MainWindow.baml
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\MainWindow.g.cs
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\App.g.cs
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C_MarkupCompile.cache
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.g.resources
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\_3C.Properties.Resources.resources
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.csproj.GenerateResource.cache
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.csproj.CoreCompileInputs.cache
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\bin\Debug\3C.exe.config
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\bin\Debug\3C.exe
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\bin\Debug\3C.pdb
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\bin\Debug\ConsoleApp1.exe
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\bin\Debug\ConsoleApp1.pdb
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\bin\Debug\ConsoleApp1.exe.config
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.csproj.CopyComplete
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.exe
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\3C\obj\Debug\3C.pdb

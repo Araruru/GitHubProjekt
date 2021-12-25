@@ -1,0 +1,16 @@
+﻿<Window x:Class="_3D.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="408.209" Width="525">
+    <Grid Margin="0,0,0,-4">
+        <DockPanel>
+            <ToolBar DockPanel.Dock="Top">
+                <Button Content="VisualBrush" Margin="0,0,20,0" Click="VisualBrush"/>
+                <Button Content="LinearGradientBrush" Margin="0,0,20,0" Click="LinearGradientBrush"/>
+                <Button Content="RadialGradientBrush" Margin="0,0,20,0" Click="RadialGradientBrush"/>
+                <Button Content="ImageBrush " Click="ImageBrush"/>
+            </ToolBar>
+            <Rectangle x:Name="ell" Stroke="DarkOrange" StrokeThickness="5"  Fill="Red" Margin="0,97,0,67" Width="347"/>
+        </DockPanel>
+    </Grid>
+</Window>

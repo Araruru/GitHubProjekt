@@ -1,0 +1,12 @@
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\УЧЁБА\7 семестр\ИСРПО\Работы\3C\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\games artuom\дз\Кузнецов\4. Кузнецов\лаба 3\3C\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

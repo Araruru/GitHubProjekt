@@ -1,0 +1,20 @@
+﻿<Window x:Class="_3B.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="561.94" Width="807.09">
+    <Grid Margin="0,0,84,0">
+
+        <DockPanel Margin="0,0,-87,0">
+            <ToolBar DockPanel.Dock="Top">
+                <Button Content="Rotate" Click="Rotate" />
+                <Button Content="Scale" Click="Scale"/>
+                <Button Content="Translate" Click="Translate" />
+            </ToolBar>
+            <Image x:Name="img" Source="pack://application:,,,/images/img.jpg" Width="100" Margin="30,80,30,80"/>
+            <Rectangle x:Name="rect" Stroke="DarkRed" Fill="Red" StrokeThickness="5" Height="100" Width="100" Margin="30,80,30,80" />
+            <Ellipse x:Name="ell" Stroke="DarkRed" Fill="Red"  StrokeThickness="5" Height="80" Width="100" Margin="30,80,30,80"/>
+            <Line x:Name="line" Stroke="Red" StrokeThickness="7" X1="0" Y1="20" X2="150" Y2="50" Margin="30,202"/>
+            <Polygon x:Name="poly" Stroke="DarkRed" Fill="Red" StrokeThickness="4" Points="0,20 10,50 20,10 2,2" Margin="30,202" Width="77"/>
+        </DockPanel>
+    </Grid>
+</Window>
